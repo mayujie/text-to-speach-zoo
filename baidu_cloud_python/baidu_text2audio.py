@@ -5,6 +5,7 @@ from urllib.parse import quote_plus
 import requests
 from tqdm import tqdm
 
+# @TODO: Add here your API key and Secret Key
 API_KEY = ""
 SECRET_KEY = ""
 

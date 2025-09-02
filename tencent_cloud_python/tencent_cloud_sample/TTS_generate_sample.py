@@ -61,6 +61,7 @@ for voice_role in tqdm(list_voice):
                 # You can also write the key pair directly into the code, but be careful not to copy, upload, or share the code to others
                 # Query the CAM key: https://console.tencentcloud.com/capi
                 cred = credential.Credential(
+                    # @TODO: Add here your API key and Secret Key
                     secret_id="",
                     secret_key=""
                 )

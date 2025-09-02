@@ -6,8 +6,9 @@ from tencentcloud.cvm.v20170312 import cvm_client, models
 try:
     # Instantiate an authentication object. The Tencent Cloud account secretId and secretKey need to be passed in as the input parameters.
     cred = credential.Credential(
-        "",
-        ""
+        # @TODO: Add here your API key and Secret Key
+        secret_id="",
+        secret_key=""
     )
 
     # Instantiate the client object to request the product (with CVM as an example).

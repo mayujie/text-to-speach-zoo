@@ -1,0 +1,5 @@
+tencentcloud-sdk-python-intl-en
+aliyun-python-sdk-core==2.15.1
+git+https://github.com/aliyun/alibabacloud-nls-python-sdk.git
+requests
+tqdm

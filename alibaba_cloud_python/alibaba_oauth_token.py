@@ -8,6 +8,7 @@ from aliyunsdkcore.request import CommonRequest
 
 
 def get_alibaba_token():
+    # @TODO: Add here your API key and Secret Key
     os.environ["ALIYUN_AK_ID"] = ""
     os.environ["ALIYUN_AK_SECRET"] = ""
 
