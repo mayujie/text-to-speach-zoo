@@ -1,0 +1,18 @@
+pip install tencentcloud-sdk-python-intl-en
+
+For python 3.10.16
+
+Tencent Cloud Software Development Kit (SDK) python
+https://www.tencentcloud.com/document/product/494/7244?has_map=2
+
+
+TextToVoice
+https://www.tencentcloud.com/document/product/1154/48916#2.-input-parameters
+
+https://www.tencentcloud.com/document/product/1154/49573?lang=en
+
+tencentcloud-sdk-python-intl-en
+https://github.com/TencentCloud/tencentcloud-sdk-python-intl-en/tree/master/tencentcloud/tts/v20190823
+
+音色列表
+https://cloud.tencent.com/document/product/1073/92668

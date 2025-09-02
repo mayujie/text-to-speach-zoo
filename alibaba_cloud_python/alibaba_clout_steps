@@ -1,0 +1,36 @@
+# install alibaba cloud SDK library 安装阿里云SDK核心库
+pip install aliyun-python-sdk-core==2.15.1
+
+# install alibaba-nls-python-sdk
+pip install git+https://github.com/aliyun/alibabacloud-nls-python-sdk.git
+
+Voice list
+https://help.aliyun.com/zh/isi/developer-reference/overview-of-speech-synthesis#5186fe1abb7ag
+
+Python SDK
+https://help.aliyun.com/zh/isi/developer-reference/sdk-for-python-1
+
+
+RESTful API
+https://help.aliyun.com/zh/isi/developer-reference/restful-api-3
+
+# Price bill
+https://help.aliyun.com/zh/isi/product-overview/billing-10
+
+TTS
+https://ai.aliyun.com/nls/tts
+
+TTS Model
+https://help.aliyun.com/zh/isi/product-overview/features?spm=a2c4g.11186623.help-menu-30413.d_0_0_2.46385fddhzk4EX&scm=20140722.H_212726._.OR_help-T_cn~zh-V_1#section-lpp-crx-sq1
+
+智能语音交互 开发参考
+https://help.aliyun.com/zh/isi/developer-reference/
+
+接口说明
+https://help.aliyun.com/zh/isi/developer-reference/overview-of-speech-synthesis
+
+语音合成模型
+https://help.aliyun.com/zh/isi/product-overview/features#section-lpp-crx-sq1
+
+域名接入
+https://help.aliyun.com/zh/isi/product-overview/regions-and-domain-names#section-hkm-s19-wgb
