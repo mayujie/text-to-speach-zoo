@@ -1,0 +1,28 @@
+pip install paddlepaddle
+
+pip install paddlespeech
+
+wget https://paddlespeech.bj.bcebos.com/Parakeet/tools/nltk_data.tar.gz
+tar zxvf nltk_data.tar.gz
+
+paddlepaddle
+paddlespeech
+opencc==1.1.6
+aistudio-sdk==0.2.6
+
+# PP-TTS
+https://aistudio.baidu.com/modelsdetail/26/intro
+
+https://paddlespeech.readthedocs.io/en/latest/tts/models_introduction.html
+
+https://paddlespeech.readthedocs.io/en/latest/_modules/paddlespeech/cli/tts/infer.html#TTSExecutor.execute
+
+https://github.com/PaddlePaddle/PaddleSpeech
+
+https://github.com/PaddlePaddle/PaddleSpeech/blob/develop/docs/source/released_model.md
+
+https://github.com/PaddlePaddle/PaddleSpeech/blob/develop/docs/source/tts/quick_start_cn.md
+
+
+
+
