@@ -2,16 +2,18 @@ import os
 import glob
 import simpleaudio as sa
 
-ROOT_DIR = "tts-paddlespeech/try"
+# ROOT_DIR = "tts-paddlespeech/try"
+ROOT_DIR = "tts-XTTS-python"
+
 
 def play_audio_files():
-    result_dirs = [d for d in os.listdir(ROOT_DIR) if d.startswith("results_tts")]
+    result_dirs = [d for d in os.listdir(ROOT_DIR) if d.startswith("results_")]
     result_dirs.sort()
 
     for d in result_dirs:
-        if "fastspeech2_aishell3" not in d:
+        # if "fastspeech2_aishell3" not in d:
         # if "fastspeech2_mix" not in d:
-            continue
+        #     continue
 
         folder_path = os.path.join(ROOT_DIR, d)
         print(f"\n🔊 Entering folder: {folder_path}")
@@ -42,6 +44,7 @@ def play_audio_files():
             #     except EOFError:
             #         # In case of ctrl+D in terminal
             #         break
+
 
 if __name__ == "__main__":
     play_audio_files()

@@ -12,3 +12,12 @@ aistudio-sdk==0.2.6
 # sudo apt update && sudo apt install python3-dev build-essential libasound2-dev
 simpleaudio
 keyboard
+# coqui/XTTS-v2
+TTS
+transformers==4.40.2
+torch<2.6
+accelerate
+safetensors
+# Qwen3
+dashscope
+openai
