@@ -125,6 +125,7 @@ https://github.com/RVC-Boss/GPT-SoVITS
 
 - https://github.com/index-tts/index-tts
 - https://huggingface.co/IndexTeam/Index-TTS
+- https://indextts2.org/
 
 # Kokoro TTS
 
